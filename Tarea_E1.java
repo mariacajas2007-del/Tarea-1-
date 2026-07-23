@@ -5,7 +5,7 @@ public class Tarea_E1{
      {
         Scanner scan = new Scanner(System.in);
 
-        System.out.print("Ingrese de cuantos números a ser el array: ");
+        System.out.print("Ingrese de cuantos números va a ser el array: ");
         int cantidad = scan.nextInt();
 
         int array[]= new int[cantidad];
